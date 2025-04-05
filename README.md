@@ -16,7 +16,7 @@ If you are developing a production application, we recommend using TypeScript an
 npm install -g firebase-tools
 firebase login
 firebase init
->(*) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys => to deploy from local
+>(*) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys => to deploy from local.
 public
 build
 npm run build
