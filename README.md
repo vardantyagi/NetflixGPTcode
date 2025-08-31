@@ -32,7 +32,7 @@ Follow these steps to run NetflixGPT locally:
 
 ### 1️⃣ Clone the repository
 git clone https://github.com/vardantyagi/NetflixGPTcode.git
-cd NetflixGPT
+cd NetflixGPTcode
 
 2️⃣ Install dependencies
 npm install
